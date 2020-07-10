@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### I'm Daniele Perera
+
+- Currently working on Threat Intelligence/Hunting/OSINT
+- I'm very passionate about Blue Teaming, Threat Intelligence, OSINT, Harderning AD, Threat Prevention/detection and hunting
+- Volunteering as a member in the [R00tMi community](https://twitter.com/R00tMi) and core admin of [blueteamzone](https://twitter.com/blueteamzone/)
+- Actively contributing to the cybersecurity community
+
+
+For more in detail information visit my [Portfolio](https://danieleperera.github.io/)
+
 <!--
 **danieleperera/danieleperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
