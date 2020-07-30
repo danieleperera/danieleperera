@@ -7,6 +7,8 @@
 - Volunteering as a member in the [R00tMi community](https://twitter.com/R00tMi) and core admin of [blueteamzone](https://twitter.com/blueteamzone/)
 - Actively contributing to the cybersecurity community
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=danieleperera&show_icons=true" alt="danieleperera's GitHub Stats"/></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleperera&layout=compact" alt="Most Used Languages"/></p>
 
 For more in detail information visit my [Portfolio](https://danieleperera.github.io/)
 
