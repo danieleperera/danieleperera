@@ -16,6 +16,9 @@ I'm Daniele alias cypher
 ```console
 cypher@matrix:~$ cat infosec_interests
 Blueteaming, Active directory/ SIEMs, Threat intelligence, Threat Hunting, OSINT and CTFs
+cypher@matrix:~$ cat community
+- Volunteering as a member in the [R00tMi community](https://twitter.com/R00tMi) and core admin of [blueteamzone](https://twitter.com/blueteamzone/)
+- Actively contributing to the cybersecurity community
 ```
 
 ### Currently working on :octocat:
@@ -36,12 +39,6 @@ cypher@matrix:~$ cat active_pojects
 Andrew Honig
 - [ ] [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 
-
-
-- Currently working on Threat Intelligence/Hunting/OSINT
-- I'm very passionate about Blue Teaming, Threat Intelligence, OSINT, Harderning AD, Threat Prevention/detection and hunting
-- Volunteering as a member in the [R00tMi community](https://twitter.com/R00tMi) and core admin of [blueteamzone](https://twitter.com/blueteamzone/)
-- Actively contributing to the cybersecurity community
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=danieleperera&show_icons=true" alt="danieleperera's GitHub Stats"/></p>
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleperera&layout=compact" alt="Most Used Languages"/></p>
