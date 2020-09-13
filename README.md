@@ -17,7 +17,8 @@ I'm Daniele alias cypher
 cypher@matrix:~$ cat infosec_interests
 Blueteaming, Active directory/ SIEMs, Threat intelligence, Threat Hunting, OSINT and CTFs
 cypher@matrix:~$ cat community
-- Volunteering as a member in the [R00tMi community](https://twitter.com/R00tMi) and core admin of [blueteamzone](https://twitter.com/blueteamzone/)
+- Volunteering as a member in the [R00tMi community](https://twitter.com/R00tMi)
+- core admin of [blueteamzone](https://twitter.com/blueteamzone/)
 - Actively contributing to the cybersecurity community
 ```
 
