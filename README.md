@@ -32,7 +32,7 @@ cypher@matrix:~$ cat active_pojects
 
 ---
 
-### Books to read in 2020 :books: 
+### Books to read :books: 
 - [x] [Hunting Cyber Criminals: A hacker's guide to Online Intelligence gathering tools and techniques](https://www.goodreads.com/book/show/53037236-hunting-cyber-criminals) By Vinny Troia 
 - [ ] [The Cuckoo’s Egg](https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg) by Clifford Stoll
 - [ ] [Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation](https://www.goodreads.com/book/show/32686074-attacking-network-protocols) by James Forshaw
