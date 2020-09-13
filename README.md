@@ -36,9 +36,9 @@ cypher@matrix:~$ cat active_pojects
 - [x] [Hunting Cyber Criminals: A hacker's guide to Online Intelligence gathering tools and techniques](https://www.goodreads.com/book/show/53037236-hunting-cyber-criminals) By Vinny Troia 
 - [ ] [The Cuckoo’s Egg](https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg) by Clifford Stoll
 - [ ] [Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation](https://www.goodreads.com/book/show/32686074-attacking-network-protocols) by James Forshaw
-- [ ] [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://www.goodreads.com/book/show/10677461-practical-malware-analysis) by  Michael Sikorski,
-Andrew Honig
+- [ ] [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://www.goodreads.com/book/show/10677461-practical-malware-analysis) by  Michael Sikorski
 - [ ] [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+- [ ] [SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys](https://www.goodreads.com/book/show/13550641-ssh-mastery) by Michael Lucas
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=danieleperera&show_icons=true" alt="danieleperera's GitHub Stats"/></p>
