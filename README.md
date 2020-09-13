@@ -1,6 +1,41 @@
-### Hi there 👋
+```console
+cypher@matrix:~$ sayHi
+Hi there 👋
+cypher@matrix:~$ whoami
+cypher
+cypher@matrix:~$ cypher | more
+I'm Daniele alias cypher
+* Hard worker
+* Python Coder
+* Running, gym, pizza and sushi lover
+* Infosec enthusiast driven by passion, curiosity and willingness to learn
+```
 
-### I'm Daniele Perera
+### InfoSec interests  :space_invader:
+```console
+cypher@matrix:~$ cat infosec_interests
+Blueteaming, Active directory/ SIEMs, Threat intelligence, Threat Hunting, OSINT and CTFs
+```
+
+### Currently working on :octocat:
+```console
+cypher@matrix:~$ cat active_pojects
+* [OnionIngestor](https://github.com/danieleperera/OnionIngestor) 
+* [**Confidential**](https://github.com/danieleperera/401)
+* [**Confidential**](https://github.com/danieleperera/401)
+```
+
+---
+
+### Books to read in 2020 :books: 
+- [x] [Hunting Cyber Criminals: A hacker's guide to Online Intelligence gathering tools and techniques](https://www.goodreads.com/book/show/53037236-hunting-cyber-criminals) By Vinny Troia 
+- [ ] [The Cuckoo’s Egg](https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg) by Clifford Stoll
+- [ ] [Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation](https://www.goodreads.com/book/show/32686074-attacking-network-protocols) by James Forshaw
+- [ ] [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://www.goodreads.com/book/show/10677461-practical-malware-analysis) by  Michael Sikorski,
+Andrew Honig
+- [ ] [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+
+
 
 - Currently working on Threat Intelligence/Hunting/OSINT
 - I'm very passionate about Blue Teaming, Threat Intelligence, OSINT, Harderning AD, Threat Prevention/detection and hunting
