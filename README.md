@@ -1,4 +1,4 @@
-### Daniele Perera - Cypher
+### Daniele Perera - Cypher  :necktie:
 ```console
 cypher@matrix:~$ sayHi
 Hi there 👋
