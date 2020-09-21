@@ -39,6 +39,8 @@ cypher@matrix:~$ cat active_pojects
 - [ ] [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://www.goodreads.com/book/show/10677461-practical-malware-analysis) by  Michael Sikorski
 - [ ] [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 - [ ] [SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys](https://www.goodreads.com/book/show/13550641-ssh-mastery) by Michael Lucas
+- [ ] [Intelligence-Driven Incident Response](https://www.goodreads.com/book/show/28646667-intelligence-driven-incident-response) by Scott J. Roberts 
+
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=danieleperera&show_icons=true" alt="danieleperera's GitHub Stats"/></p>
