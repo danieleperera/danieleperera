@@ -34,13 +34,18 @@ cypher@matrix:~$ cat active_pojects
 
 ### Books to read :books: 
 - [x] [Hunting Cyber Criminals: A hacker's guide to Online Intelligence gathering tools and techniques](https://www.goodreads.com/book/show/53037236-hunting-cyber-criminals) By Vinny Troia 
+- [ ] [Intelligence-Driven Incident Response](https://www.goodreads.com/book/show/28646667-intelligence-driven-incident-response) by Scott J. Roberts 
 - [ ] [The Cuckoo’s Egg](https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg) by Clifford Stoll
 - [ ] [Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation](https://www.goodreads.com/book/show/32686074-attacking-network-protocols) by James Forshaw
 - [ ] [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://www.goodreads.com/book/show/10677461-practical-malware-analysis) by  Michael Sikorski
 - [ ] [Learn Python the Hard Way](https://learnpythonthehardway.org/)
-- [ ] [SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys](https://www.goodreads.com/book/show/13550641-ssh-mastery) by Michael Lucas
-- [ ] [Intelligence-Driven Incident Response](https://www.goodreads.com/book/show/28646667-intelligence-driven-incident-response) by Scott J. Roberts 
-
+- [ ] [Incident Response & Computer Forensics](https://www.goodreads.com/book/show/17079654-incident-response-computer-forensics?from_search=true&from_srp=true&qid=xAbGIJBxmt)  by Jason T. Luttgens, Matthew Pepe, Kevin Mandia
+- [ ] [Digital Forensics and Incident Response: A practical guide to deploying digital forensic](https://www.goodreads.com/book/show/36120655-digital-forensics-and-incident-response) by Gerard Johansen
+- [ ] [How to Investigate Like a Rockstar](https://www.goodreads.com/book/show/36056242-how-to-investigate-like-a-rockstar) by Sparc Flow
+- [ ] [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.goodreads.com/book/show/52768062-operator-handbook)  by Joshua Picolet
+- [ ] [Structured Analytic Techniques for Intelligence Analysis](https://www.goodreads.com/book/show/7818985-structured-analytic-techniques-for-intelligence-analysis)  by Richards J. Heuer Jr., Randolph H. Pherson
+- [ ] [Threat Modeling: Designing for Security](https://www.goodreads.com/book/show/18379732-threat-modeling) by Adam Shostack 
+- [ ] [The Psychology of Intelligence Analysis](https://www.goodreads.com/book/show/9998216-the-psychology-of-intelligence-analysis)  by Richards J. Heuer Jr.
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=danieleperera&show_icons=true" alt="danieleperera's GitHub Stats"/></p>
