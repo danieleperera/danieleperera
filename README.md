@@ -46,6 +46,7 @@ cypher@matrix:~$ cat active_pojects
 - [ ] [Structured Analytic Techniques for Intelligence Analysis](https://www.goodreads.com/book/show/7818985-structured-analytic-techniques-for-intelligence-analysis)  by Richards J. Heuer Jr., Randolph H. Pherson
 - [ ] [Threat Modeling: Designing for Security](https://www.goodreads.com/book/show/18379732-threat-modeling) by Adam Shostack 
 - [ ] [The Psychology of Intelligence Analysis](https://www.goodreads.com/book/show/9998216-the-psychology-of-intelligence-analysis)  by Richards J. Heuer Jr.
+- [ ] [Cyber Warfare – Truth, Tactics, and Strategies](https://www.goodreads.com/book/show/51833086-cyber-warfare-truth-tactics-and-strategies)  by Dr. Chase Cunningham 
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=danieleperera&show_icons=true" alt="danieleperera's GitHub Stats"/></p>
