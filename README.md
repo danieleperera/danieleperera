@@ -34,7 +34,7 @@ cypher@matrix:~$ cat active_pojects
 
 ### Books to read :books: 
 - [x] [Hunting Cyber Criminals: A hacker's guide to Online Intelligence gathering tools and techniques](https://www.goodreads.com/book/show/53037236-hunting-cyber-criminals) By Vinny Troia 
-- [ ] [Intelligence-Driven Incident Response](https://www.goodreads.com/book/show/28646667-intelligence-driven-incident-response) by Scott J. Roberts 
+- [x] [Intelligence-Driven Incident Response](https://www.goodreads.com/book/show/28646667-intelligence-driven-incident-response) by Scott J. Roberts 
 - [ ] [The Cuckoo’s Egg](https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg) by Clifford Stoll
 - [ ] [Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation](https://www.goodreads.com/book/show/32686074-attacking-network-protocols) by James Forshaw
 - [ ] [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://www.goodreads.com/book/show/10677461-practical-malware-analysis) by  Michael Sikorski
@@ -47,6 +47,8 @@ cypher@matrix:~$ cat active_pojects
 - [ ] [Threat Modeling: Designing for Security](https://www.goodreads.com/book/show/18379732-threat-modeling) by Adam Shostack 
 - [ ] [The Psychology of Intelligence Analysis](https://www.goodreads.com/book/show/9998216-the-psychology-of-intelligence-analysis)  by Richards J. Heuer Jr.
 - [ ] [Cyber Warfare – Truth, Tactics, and Strategies](https://www.goodreads.com/book/show/51833086-cyber-warfare-truth-tactics-and-strategies)  by Dr. Chase Cunningham 
+- [ ] [Intrusion Detection Honeypots: Detection through Deception](https://www.goodreads.com/book/show/55205715-intrusion-detection-honeypots)  by Chris Sanders
+- [ ] [Practical Threat Intelligence and Data-Driven Threat Hunting](https://www.goodreads.com/book/show/57043649-practical-threat-intelligence-and-data-driven-threat-hunting) by Valentina Palacín 
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=danieleperera&show_icons=true" alt="danieleperera's GitHub Stats"/></p>
