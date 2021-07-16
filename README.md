@@ -49,6 +49,7 @@ cypher@matrix:~$ cat active_pojects
 - [ ] [Cyber Warfare – Truth, Tactics, and Strategies](https://www.goodreads.com/book/show/51833086-cyber-warfare-truth-tactics-and-strategies)  by Dr. Chase Cunningham 
 - [ ] [Intrusion Detection Honeypots: Detection through Deception](https://www.goodreads.com/book/show/55205715-intrusion-detection-honeypots)  by Chris Sanders
 - [ ] [Practical Threat Intelligence and Data-Driven Threat Hunting](https://www.goodreads.com/book/show/57043649-practical-threat-intelligence-and-data-driven-threat-hunting) by Valentina Palacín 
+- [ ] [Handbook of Intelligence Studies](https://www.goodreads.com/book/show/7273473-handbook-of-intelligence-studies) by Loch K. Johnson
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=danieleperera&show_icons=true" alt="danieleperera's GitHub Stats"/></p>
