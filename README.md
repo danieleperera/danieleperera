@@ -33,6 +33,7 @@ cypher@matrix:~$ cat active_pojects
 ---
 
 ### Books to read :books: 
+#### Infosec
 - [x] [Hunting Cyber Criminals: A hacker's guide to Online Intelligence gathering tools and techniques](https://www.goodreads.com/book/show/53037236-hunting-cyber-criminals) By Vinny Troia 
 - [x] [Intelligence-Driven Incident Response](https://www.goodreads.com/book/show/28646667-intelligence-driven-incident-response) by Scott J. Roberts 
 - [ ] [The Cuckoo’s Egg](https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg) by Clifford Stoll
@@ -50,6 +51,15 @@ cypher@matrix:~$ cat active_pojects
 - [ ] [Intrusion Detection Honeypots: Detection through Deception](https://www.goodreads.com/book/show/55205715-intrusion-detection-honeypots)  by Chris Sanders
 - [ ] [Practical Threat Intelligence and Data-Driven Threat Hunting](https://www.goodreads.com/book/show/57043649-practical-threat-intelligence-and-data-driven-threat-hunting) by Valentina Palacín 
 - [ ] [Handbook of Intelligence Studies](https://www.goodreads.com/book/show/7273473-handbook-of-intelligence-studies) by Loch K. Johnson
+
+#### Finance
+- [ ] [Japanese Candlestick Charting Tecniques: A Contemporary Guide to the Ancient Investment](https://www.goodreads.com/book/show/360128.Japanese_Candlestick_Charting_Techniques) by Steve Nison 
+- [ ] [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard) by Saifedean Ammous 
+- [ ] [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.goodreads.com/book/show/21820378-mastering-bitcoin) by Andreas M. Antonopoulos 
+- [ ] [Mastering Ethereum: Building Smart Contracts and DApps](https://www.goodreads.com/book/show/33584554-mastering-ethereum) by Andreas M. Antonopoulos
+- [ ] [The Total Money Makeover: A Proven Plan for Financial Fitness](https://www.goodreads.com/book/show/78427.The_Total_Money_Makeover) by Dave Ramsey
+- [ ] [The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns](https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing) by John C. Bogle
+
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=danieleperera&show_icons=true" alt="danieleperera's GitHub Stats"/></p>
