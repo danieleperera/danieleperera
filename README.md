@@ -51,6 +51,12 @@ cypher@matrix:~$ cat active_pojects
 - [ ] [Intrusion Detection Honeypots: Detection through Deception](https://www.goodreads.com/book/show/55205715-intrusion-detection-honeypots)  by Chris Sanders
 - [ ] [Practical Threat Intelligence and Data-Driven Threat Hunting](https://www.goodreads.com/book/show/57043649-practical-threat-intelligence-and-data-driven-threat-hunting) by Valentina Palacín 
 - [ ] [Handbook of Intelligence Studies](https://www.goodreads.com/book/show/7273473-handbook-of-intelligence-studies) by Loch K. Johnson
+- [ ] [Cyber War Will Not Take Place](https://www.goodreads.com/book/show/17690700-cyber-war-will-not-take-place) by Thomas Rid
+- [ ] [Rise Of The Machines](https://www.goodreads.com/book/show/34068514-rise-of-the-machines) by Thomas Rid
+- [ ] [Active Measures](https://www.goodreads.com/book/show/45892235-active-measures) by Thomas Rid
+- [ ] [Strategic Intelligence for American World Policy](https://www.goodreads.com/book/show/7193649-strategic-intelligence-for-american-world-policy) by Sherman Kent
+
+
 
 #### Finance
 - [ ] [Japanese Candlestick Charting Tecniques: A Contemporary Guide to the Ancient Investment](https://www.goodreads.com/book/show/360128.Japanese_Candlestick_Charting_Techniques) by Steve Nison 
