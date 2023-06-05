@@ -56,6 +56,9 @@ cypher@matrix:~$ cat active_pojects
 - [ ] [Active Measures](https://www.goodreads.com/book/show/45892235-active-measures) by Thomas Rid
 - [ ] [Strategic Intelligence for American World Policy](https://www.goodreads.com/book/show/7193649-strategic-intelligence-for-american-world-policy) by Sherman Kent
 - [ ] [Making Hard Decisions: An Introduction to Decision Analysis](https://www.goodreads.com/book/show/729874.Making_Hard_Decisions) by Robert T. Clemen
+- [ ] [Visual Threat Intelligence: An Illustrated Guide For Threat Researcher](https://www.goodreads.com/book/show/166464105-visual-threat-intelligence) by Thomas Roccia
+
+
 
 
 #### Finance
