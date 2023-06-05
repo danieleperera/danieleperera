@@ -57,8 +57,14 @@ cypher@matrix:~$ cat active_pojects
 - [ ] [Strategic Intelligence for American World Policy](https://www.goodreads.com/book/show/7193649-strategic-intelligence-for-american-world-policy) by Sherman Kent
 - [ ] [Making Hard Decisions: An Introduction to Decision Analysis](https://www.goodreads.com/book/show/729874.Making_Hard_Decisions) by Robert T. Clemen
 - [ ] [Visual Threat Intelligence: An Illustrated Guide For Threat Researcher](https://www.goodreads.com/book/show/166464105-visual-threat-intelligence) by Thomas Roccia
-
-
+- [ ] [The Art & Science of Intelligence Analysis](https://www.goodreads.com/book/show/164321051-the-art-science-of-intelligence-analysis-by-julian-richards) by Julian Richards
+- [ ] [Intelligence: From Secrets to Policy](https://www.goodreads.com/book/show/113893.Intelligence) by Mark M. Lowenthal
+- [ ] [Spycraft: The Secret History of the CIA's Spytechs, from Communism to al-Qaeda](https://www.goodreads.com/book/show/971936.Spycraft) by Robert Wallace, H. Keith Melton, Henry R. Schlesinger
+- [ ] [Mastering Cyber Intelligence: Gain comprehensive knowledge and skills to conduct threat intelligence for effective system defense](https://www.goodreads.com/book/show/74783161-mastering-cyber-intelligence) by Jean Nestor M. Dahj
+- [ ] [Cyber Threat Intelligence: The No-Nonsense Guide for CISOs and Security Managers](https://www.goodreads.com/book/show/58278049-cyber-threat-intelligence) by Aaron Roberts
+- [ ] [The Threat Intelligence Handbook: A Practical Guide for Security Teams to Unlocking the Power of Intelligence](https://www.amazon.com/Threat-Intelligence-Handbook-Practical-Unlocking/dp/0999035460) by Recorded Future
+- [ ] [Cybersecurity - Attack and Defense Strategies: Infrastructure security with Red Team and Blue Team tactics](https://www.goodreads.com/book/show/38488278-cybersecurity---attack-and-defense-strategies) by Yuri Diogenes, Erdal Özkaya
+- [ ] [Crafting the InfoSec Playbook: Security Monitoring and Incident Response Master Plan](https://www.goodreads.com/book/show/25648074-crafting-the-infosec-playbook) by Jeff Bollinger, Brandon Enright, Matthew Valites
 
 
 #### Finance
@@ -67,9 +73,14 @@ cypher@matrix:~$ cat active_pojects
 - [ ] [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.goodreads.com/book/show/21820378-mastering-bitcoin) by Andreas M. Antonopoulos 
 - [ ] [Mastering Ethereum: Building Smart Contracts and DApps](https://www.goodreads.com/book/show/33584554-mastering-ethereum) by Andreas M. Antonopoulos
 - [ ] [The Total Money Makeover: A Proven Plan for Financial Fitness](https://www.goodreads.com/book/show/78427.The_Total_Money_Makeover) by Dave Ramsey
-- [ ] [The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns](https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing) by John C. Bogle
+- [x] [The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns](https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing) by John C. Bogle
 
-
+| Author | Description | Resource URL |
+| --- | --- | --- |
+| [Sarah Jones](https://twitter.com/sj94356) | A Brief History of Attribution Mistakes - analyse the mistakes made by others so that you do not repeat them | [securityandtechnology.org](https://securityandtechnology.org/wp-content/uploads/2020/07/summit_archive_1548105619.pdf) |
+|Sergio Caltagirone, Andrew Pendergast, and Chris Betz |The Diamond Model of Intrusion Analysis - A comprehensive guide that presents a structured method for analyzing cyber intrusions, emphasizing the interconnectedness of adversaries, capabilities, victims, and infrastructure in the cyber threat landscape. | [activeresponse.org](https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf) |
+|Blake Strom|MITRE ATT&CK™: Design and Philosophy - This book provides a thorough exploration of the MITRE ATT&CK framework, revealing its design principles, philosophy, and application. | [mitre.org](https://attack.mitre.org/docs/ATTACK_Design_and_Philosophy_March_2020.pdf) |
+|Blake Strom|MITRE ATT&CK™: Design and Philosophy - This book provides a thorough exploration of the MITRE ATT&CK framework, revealing its design principles, philosophy, and application. | [mitre.org](https://attack.mitre.org/docs/ATTACK_Design_and_Philosophy_March_2020.pdf) |
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=danieleperera&show_icons=true" alt="danieleperera's GitHub Stats"/></p>
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleperera&layout=compact" alt="Most Used Languages"/></p>
