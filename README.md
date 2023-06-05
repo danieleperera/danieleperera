@@ -55,7 +55,7 @@ cypher@matrix:~$ cat active_pojects
 - [ ] [Rise Of The Machines](https://www.goodreads.com/book/show/34068514-rise-of-the-machines) by Thomas Rid
 - [ ] [Active Measures](https://www.goodreads.com/book/show/45892235-active-measures) by Thomas Rid
 - [ ] [Strategic Intelligence for American World Policy](https://www.goodreads.com/book/show/7193649-strategic-intelligence-for-american-world-policy) by Sherman Kent
-
+- [ ] [Making Hard Decisions: An Introduction to Decision Analysis](https://www.goodreads.com/book/show/729874.Making_Hard_Decisions) by Robert T. Clemen
 
 
 #### Finance
