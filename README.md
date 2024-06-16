@@ -37,6 +37,9 @@ cypher@matrix:~$ cat active_pojects
 - [x] [Hunting Cyber Criminals: A hacker's guide to Online Intelligence gathering tools and techniques](https://www.goodreads.com/book/show/53037236-hunting-cyber-criminals) By Vinny Troia 
 - [x] [Intelligence-Driven Incident Response](https://www.goodreads.com/book/show/28646667-intelligence-driven-incident-response) by Scott J. Roberts 
 - [x] [The Cuckoo’s Egg](https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg) by Clifford Stoll
+- [ ] [Placing the Suspect Behind the Keyboard: DFIR Investigative Mindset](https://www.goodreads.com/book/show/209713706-placing-the-suspect-behind-the-keyboard) by Brett Shavers
+- [ ] [Visual Threat Intelligence: An Illustrated Guide For Threat Researcher](https://www.goodreads.com/book/show/166464105-visual-threat-intelligence) by Thomas Roccia
+- [ ] [Effective Vulnerability Management: Managing Risk in the Vulnerable Digital Ecosystem](https://www.goodreads.com/book/show/199799436-effective-vulnerability-management) by Chris Hughes & Nikki Robinson
 - [ ] [Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation](https://www.goodreads.com/book/show/32686074-attacking-network-protocols) by James Forshaw
 - [ ] [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://www.goodreads.com/book/show/10677461-practical-malware-analysis) by  Michael Sikorski
 - [ ] [Learn Python the Hard Way](https://learnpythonthehardway.org/)
