@@ -68,6 +68,7 @@ cypher@matrix:~$ cat active_pojects
 - [ ] [The Threat Intelligence Handbook: A Practical Guide for Security Teams to Unlocking the Power of Intelligence](https://www.amazon.com/Threat-Intelligence-Handbook-Practical-Unlocking/dp/0999035460) by Recorded Future
 - [ ] [Cybersecurity - Attack and Defense Strategies: Infrastructure security with Red Team and Blue Team tactics](https://www.goodreads.com/book/show/38488278-cybersecurity---attack-and-defense-strategies) by Yuri Diogenes, Erdal Özkaya
 - [ ] [Crafting the InfoSec Playbook: Security Monitoring and Incident Response Master Plan](https://www.goodreads.com/book/show/25648074-crafting-the-infosec-playbook) by Jeff Bollinger, Brandon Enright, Matthew Valites
+- [ ] [Analyzing Intelligence: National Security Practitioners' Perspectives](https://www.goodreads.com/book/show/18512007-analyzing-intelligence) by Roger Z. George
 
 
 #### Finance
