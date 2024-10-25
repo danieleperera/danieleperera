@@ -32,7 +32,7 @@ cypher@matrix:~$ cat active_pojects
 
 ---
 
-### Books to read :books: 
+### :books: to read  
 #### Infosec
 - [x] [Hunting Cyber Criminals: A hacker's guide to Online Intelligence gathering tools and techniques](https://www.goodreads.com/book/show/53037236-hunting-cyber-criminals) By Vinny Troia 
 - [x] [Intelligence-Driven Incident Response](https://www.goodreads.com/book/show/28646667-intelligence-driven-incident-response) by Scott J. Roberts 
